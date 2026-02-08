@@ -1,0 +1,59 @@
+d95b045e03a2d9842ab22366c5e59d5b,Alchemist's Key
+026a54d814dac9444bff775087512926,Big Pig's Key
+0daf7ce0bbb28b5468c7c3bd665bb252,Cold Hermit's Key
+20dd69891996a184280598f42ef995c3,Root Key
+8b4c015c677dc4843b3e34add0435a46,Windmill Key
+24d3c02f2b1813e479c10cf7bb0f16c2,Worm Key
+b4c04f436c861b347bffcde598ea4cbd,Golden Gnome Key
+b46dc4aec4acdb340a9e3a7953999ec1,Automaton Repair Kit
+654a03b070193304eabfb68f437a34eb,Thermal Regulator Module
+65ebb5cbc45345241b676104e8811992,Magic Mirror
+6f428be046cb721488bc2e6fc3b3f171,Frog's Seal
+b68654e612e497049b554de23cc9d59e,Frog Conduit
+ea61b4bd50681ad409942fbd9acdf5c1,Rootrot Salve
+f726d9977016a574ebec1c85989942fc,Jack in the Box
+f8b4c600f87e35c45ae543297bc55f2b,Lost Gear
+fbea7dd18a7e0b141b28ac27ec760d0a,Solar Tek Module
+fd16aebca7d18ad43b7cd1928c72efdb,Clockwork Toy
+a14bc2ce2b884ec4ab93681dfdd99e3c,Ancient Soup
+a47600632805f9e408a090f235e3bb19,Pig Tinderbag
+8174c88a94dbc7047b5f4fa9be9f4d3f,Lost Lantern
+05b778bd7bf0eee428d8464e1eac5e7e,Blue Apple
+35aea1d72dbba7a49ae3efd0fe223545,Red Apple
+015e383e31749ed4b819367452989f67,Noxious Berries
+2136b5e84d91f86469ab6a2c716988b7,Oil Seed (A)
+3a207d08f573e7d4183ca8fde3e4e763,Oil Seed (B)
+4d8b29705bf30844d9ee882d33f330d7,Sheep's Herb
+5884e3666c850904ca09f8e7fbec9a4a,Sweet Orbs
+79993d8d68a50b34d97cb0076dafc89c,Mandrake
+9e59a98e63a0ebc4cb58bd15425e9232,Gnome Bones
+c0c93450743622b43937403b879129f9,Frog Eyes
+8feb56d973cccc445a3a6c02f9ae625d,Entropic Molester's Head
+11f52abe-9a1d-49a8-8b88-fca35f83ab99,Idiot's Cap
+386a88646a22b2542af7226878570efc,Jester's Crown
+418636f597454a7469383b97a78b0c51,Mammon Ring
+705a61384772e6649b6ca1e898031590,Bubble Band
+64b01944bba1bcf4baf13d2ec04a2307,Shepherd's Ring
+39f864bf-9a4c-45c4-97d8-124c9fced502,Broken Orbtek E.G.G. Kit
+d6b3bf591943f7e48b9732fd74893a1e,Orbtek E.G.G. Kit
+4b4ced401d693fb4b940a92be3c838b8,Gnome Flaut
+af40a330bd8cc944bb7bc7851ecb8ef6,O.D.O.R. Rod
+b44fe85c1bec26d4b9a2705107f04c69,Fool's Sceptre
+1237e69eaf4c04340913152dc437daa8,Tiny Bird (1)
+2eb0240fbc5eb77458eb83dbc9bf69df,Tiny Bird (2)
+30e3f4de4449f69409f545d320f4cfc4,Tiny Bird (3)
+389f55c19b6ce844ab8e3052d3c8a12f,Tiny Bird (4)
+396f2df3de900a049b3a8821241963a8,Tiny Bird (5)
+4cf538fe78ebb5248bf2e4bb7bd6083a,Tiny Bird (6)
+993af02fbcfd45b4f91b24eebc10d1d5,Tiny Bird (7)
+a19f34f0714d00a42a9eddd556853c74,Tiny Bird (8)
+bfe3a0665fae34743a5f8371db6d86e5,Tiny Bird (9)
+d35beab599fa17646968ca5cbddb37b8,Tiny Bird (10)
+166db6bbc018d6b439014ed69f7e3939,Watering Can
+19ccb1f44db44044993a032a17b3d7f4,Dice
+3ad1e508bea1dad46b540944266432b1,Hot Water Bottle
+e487a63232eac5043a9bd9707cbdf3fb,Track 1
+b9606b362c0ce1e40a6557f1804cfbfc,Track 2
+88cc19e3-5feb-442e-90b1-e228d38fcf2d,Track2.mp3
+ebc643ca9c3e39645abd676bd8b881c5,Track 3
+ac432609cadbf354790c84990c1a9d89,Track 4
