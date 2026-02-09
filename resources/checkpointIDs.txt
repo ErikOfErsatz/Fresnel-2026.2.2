@@ -20,5 +20,4 @@ d3ccf3637731a604ebc53d2e1c9a786a,E.D.E.N. Foundry
 46f14a3323a331b49a27fb04831a02f0,Windy Isle (Overworld)
 7e3cd795a8fd43f488b05b23cff1713b,Orbtek Garage
 916ee9e6238e7b844bed2ab36aafe4ff,Phong's Emporium
-a51c085fe2dfbbe49a8525f5c821d470,Fairy Garden
 73c37c5087e69c34fbf91b6f20640ec9,Forgotten Frogton
