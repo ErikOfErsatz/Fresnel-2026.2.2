@@ -1,23 +1,23 @@
-452479ec43fbda442a37567eae120357,Idiot's Domain
-dbf25ad0f7376534381bfb0a76c6f226,Home
-2f54f580db10b254fb5dd0bbb9c43a8b,Croaking Bridge
-a1694b85655259a44857e84ee3bd5977,Moldy Treehouse
-bbd1187e793d19646811a72f4ce01df3,Gnome Plateau
-95937091b0011a24c8f8ae070cb99a03,Inner Hollow
-4a76e7b943185904495f35c4eb98f96b,Tree Core Doors
-4437f54e63dbedb47b988d3b035735d8,Exquisite Wastes
-a2d81317f027a934598363f896900785,Oilfields
-8d52f1e9f52e34248986cf1784ced234,Glacial Gatehouse
-d5b74e59373ed1e4583bf0be42ff3ee1,Realm of Greedy Frogs
-6ccb0a352700ee6438ead6989418c0d7,Orb Hollow Island
-cfb64923114d65e45829b9e67bc33d92,Pinkbobble Island
-5d7b2794839dd8c4ea3602d7379d7020,Ancient Tree (Overworld)
-03009bc54aee30046a245ccbbb2e1786,Castle Bogplex
-d3ccf3637731a604ebc53d2e1c9a786a,E.D.E.N. Foundry
-9baf85e0a263e4e4b99019801c003116,Serpent's Rest
-2eb684ac729aa2d4484bc3e90d1849f4,Goliath Research Station
-60a24148ab9a79f4e858f52ef9b59532,The Observatory
-46f14a3323a331b49a27fb04831a02f0,Windy Isle (Overworld)
-7e3cd795a8fd43f488b05b23cff1713b,Orbtek Garage
-916ee9e6238e7b844bed2ab36aafe4ff,Phong's Emporium
-73c37c5087e69c34fbf91b6f20640ec9,Forgotten Frogton
+452479ec43fbda442a37567eae120357,Idiot's Domain,H,0,1,0
+dbf25ad0f7376534381bfb0a76c6f226,Home,H,14,1,-58
+2f54f580db10b254fb5dd0bbb9c43a8b,Croaking Bridge,H,-2038,1375,276
+a1694b85655259a44857e84ee3bd5977,Moldy Treehouse,H,1,0,-1
+bbd1187e793d19646811a72f4ce01df3,Gnome Plateau,H,0,0,0
+95937091b0011a24c8f8ae070cb99a03,Inner Hollow,H,-11,-538,-66
+4a76e7b943185904495f35c4eb98f96b,Tree Core Doors,H,-11,-538,-66
+4437f54e63dbedb47b988d3b035735d8,Exquisite Wastes,H,-3,22,-1179
+a2d81317f027a934598363f896900785,Oilfields,H,0,0,0
+8d52f1e9f52e34248986cf1784ced234,Glacial Gatehouse,H,0,1,62
+d5b74e59373ed1e4583bf0be42ff3ee1,Realm of Greedy Frogs,H,0,1,0
+6ccb0a352700ee6438ead6989418c0d7,Orb Hollow Island,O,724,2,758,24,24
+cfb64923114d65e45829b9e67bc33d92,Pinkbobble Island,O,205,107,3674,24,24
+5d7b2794839dd8c4ea3602d7379d7020,Ancient Tree (Overworld),O,3614,406,-50,24,24
+03009bc54aee30046a245ccbbb2e1786,Castle Bogplex,O,-3361,2134,673,16,26
+d3ccf3637731a604ebc53d2e1c9a786a,E.D.E.N. Foundry,O,834,2306,2425,12,34
+9baf85e0a263e4e4b99019801c003116,Serpent's Rest,O,184,7723,-43,16,16
+2eb684ac729aa2d4484bc3e90d1849f4,Goliath Research Station,O,1323,91,433,30,7
+60a24148ab9a79f4e858f52ef9b59532,The Observatory,O,4516,8640,-1153,24,24
+46f14a3323a331b49a27fb04831a02f0,Windy Isle (Overworld),O,5420,508,4351,24,24
+7e3cd795a8fd43f488b05b23cff1713b,Orbtek Garage,O,1160,722,189,24,22
+916ee9e6238e7b844bed2ab36aafe4ff,Phong's Emporium,O,1154,618,1873,24,24
+73c37c5087e69c34fbf91b6f20640ec9,Forgotten Frogton,H,0,0,0
