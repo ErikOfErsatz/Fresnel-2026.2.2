@@ -5,6 +5,3 @@ This is a tool for modifying your save data for Eternity Egg. Its useful for:
 -Fixing softlocks, like being stuck Out Of Bounds
 -Testing quests without grinding through the game each time
 -Testing new locations/items/quests which are implemented but otherwise inaccessible (e.g. Rootrot Salve)
-
-
-Thank You deimosvalentine for your help
