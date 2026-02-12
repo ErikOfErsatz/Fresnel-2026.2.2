@@ -7,7 +7,7 @@ HOW TO USE THE EDITOR:
 1. Download the ZIP archive and extract to your desired directory (USERLANDS folder recommended for easy back and forth with game slots)
 2. Open the app by double clicking either "EESaveTool.jar" or "FresnelUI.bat"
 3. Click on LOAD and navigate to the save data you want to edit, and select the "PlayerState.json" file.
-4. With your save data loaded, you can now view/modify your save data.
+4. With your save data loaded, you can now view/modify your save data.\n
 4a. RECOMMENDED: Create an unmodified backup of your save by Naming it and hitting the "BACK UP" button before making any changes.
 4a. The left panel allows you to give a name to the backup, modify your position and active checkpoint, your stars and energy, and your distribution of stat points.
 4b. The center panel allows you to add and remove checkpoints. Use the drop menu and the "ADD" button to add checkpoints, and delete checkpoints by selecting them
