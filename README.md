@@ -11,7 +11,7 @@ HOW TO USE THE EDITOR:
  - RECOMMENDED: Create an unmodified backup of your save by Naming it and hitting the "BACK UP" button before making any changes.
  -  The left panel allows you to give a name to the backup, modify your position and active checkpoint, your stars and energy, and your distribution of stat points.
  -  The center panel allows you to add and remove checkpoints. Use the drop menu and the "ADD" button to add checkpoints, and delete checkpoints by selecting them from the list and pressing the DELETE or BACKSPACE key.
- -  The right panel allows you to add or remove items from your inventory. Add items by using the drop menu and the "ADD" button or by selecting them in the list view and pressing the RIGHT ARROW key. Remove items by selecting them in the list view and pressing the DELETE, BACKSPACE, or RIGHT ARROW key.
+ -  The right panel allows you to add or remove items from your inventory. Add items by using the drop menu and the "ADD" button or by selecting them in the list view and pressing the RIGHT ARROW key. Remove items by selecting them in the list view and pressing the DELETE, BACKSPACE, or LEFT ARROW key.
 5. Remember to name your backup, and then click the "BACK UP" button to create a new copy of the save you loaded with any modifications you made now applied.
 6. Your backups are placed in the backups folder, inside a folder with the name you gave them.
 7. To load a backup, you need to copy the .json files in the desired backup folder and place them in one of the SLOT files in your Eternity Egg folder. If you haven't already, you should create a COPY of the SAVE you're about to REPLACE.
