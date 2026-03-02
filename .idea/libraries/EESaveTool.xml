@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EESaveTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EESaveTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
