@@ -23,6 +23,7 @@
 "015e383e31749ed4b819367452989f67",Noxious Berries
 "2136b5e84d91f86469ab6a2c716988b7",Oil Seed (A)
 "3a207d08f573e7d4183ca8fde3e4e763",Oil Seed (B)
+"eb06e03aa67030346b12eb0933de1de1",Oil Flower
 "4d8b29705bf30844d9ee882d33f330d7",Sheep's Herb
 "5884e3666c850904ca09f8e7fbec9a4a",Sweet Orbs
 "79993d8d68a50b34d97cb0076dafc89c",Mandrake
